@@ -1,0 +1,21 @@
+{
+    "name": "node-red-contrib-colour-picker",
+    "version": "0.0.1",
+    "description": "A Node-RED colour picker",
+    "node-red": {
+        "nodes": {
+            "colour-picker": "colour-picker.js"
+        }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jrmedd/node-red-contrib-colour-picker.git"
+    },
+    "keywords": [
+        "rgb",
+        "palette",
+        "picker"
+    ],
+    "author": "jrmedd",
+    "license": "WTFPL"
+}
